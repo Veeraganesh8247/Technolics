@@ -18,7 +18,7 @@ This is a web based application developed for Technology related website
 -  
 🔗Screen Shots
 ![HOME](https://user-images.githubusercontent.com/118967277/204201097-e5f0c119-2beb-4099-9b18-daa3b678d50f.jpg)
-🔗Desclaimer
+🔗Disclaimer
 ![DISCLAIMER](https://user-images.githubusercontent.com/118967277/204202901-0f3ec10d-23cd-4e6b-9ffd-92baf02e06ec.jpg)
 
 🔗Posts
@@ -31,8 +31,16 @@ This is a web based application developed for Technology related website
 ![PRIVACY POLICY](https://user-images.githubusercontent.com/118967277/204201818-9a9e7e6e-d369-40a7-8a4c-faea96e5e6da.jpg)
 🔗About Us
 ![ABOIUT US](https://user-images.githubusercontent.com/118967277/204202553-0ea92c53-2b2e-42ad-bb8b-e6d009a39356.jpg)
+🔗Primary Azure Technology
 
-🔗Tech Stack
+1.Microsoft Azure Portal
+![m1](https://user-images.githubusercontent.com/118967277/204209927-2fd3b217-a5e9-4817-84c5-10e7efdf29e7.jpg)
+
+2.App services
+![m2](https://user-images.githubusercontent.com/118967277/204210004-7cf6d284-b89c-4101-b9bf-796065f1ef8b.jpg)
+
+
+🔗Tech Stack💻
 
 1.Microsoft Azure
 
